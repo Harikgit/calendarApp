@@ -61,5 +61,3 @@ signingReport/
 # Kotlin
 *.kotlin_module
 
-# Gradle wrapper jar (keep properties, skip the jar)
-gradle/wrapper/gradle-wrapper.jar
