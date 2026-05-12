@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        The app uses a windowless/transparent theme so Jetpack Compose
+        can draw the full UI including the status bar area.
+    -->
+    <style name="Theme.CalendarFlow" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
